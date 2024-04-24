@@ -104,6 +104,7 @@ const data = [
   .card {
     display: flex;
     flex-direction: column;
+    margin: 1rem;
 
     h4 {
       font-size: 2rem;
